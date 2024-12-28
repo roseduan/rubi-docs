@@ -15,7 +15,8 @@ const config = {
   favicon: 'img/favicon.png',
 
   // Set the production url of your site here
-  url: 'https://www.thundercomm.com',
+  // url: 'https://www.thundercomm.com',
+  url: 'https://roseduan.cn',
   // Set the /<baseUrl>/ pathname under which your site is served
   // For GitHub pages deployment, it is often '/<projectName>/'
   baseUrl: '/rubik-pi-3/en/',
